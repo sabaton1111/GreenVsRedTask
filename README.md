@@ -21,25 +21,25 @@ Print your result in the console.
 
 Example input data:
 
-Example 1:
-  3
-  3
-  000
-  111
-  000
-  1
-  0
-  10
+Example 1:\
+  3\
+  3\
+  000\
+  111\
+  000\
+  1\
+  0\
+  10\
 #Expected result: 5
   
-Example 2:
-  4
-  4
-  1001
-  1111
-  0100
-  1010
-  2
-  2
-  15
+Example 2:\
+  4\
+  4\
+  1001\
+  1111\
+  0100\
+  1010\
+  2\
+  2\
+  15\
 #Expected result: 14
